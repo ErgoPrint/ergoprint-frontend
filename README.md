@@ -1,2 +1,2 @@
 # ergoprint-frontend
-ErgoPrint Front-End
+ErgoPrint front-end.
